@@ -35,8 +35,11 @@ Data Scientist | Ph.D. in Industrial Engineering | AI & Optimization Enthusiast
 ## Tech Stack
 
 **Languages:** Python, R, SQL  
-**Tools & Platforms:** Neo4j, Gurobi, SageMaker, Numpy, Pandas, Scikit-learn, TensorFlow, FAISS, GPT API, RAG  
+
+**Tools & Platforms:** Neo4j, Gurobi, SageMaker, Numpy, Pandas, Scikit-learn, TensorFlow, FAISS, GPT API, RAG 
+
 **Visualization:** Plotly, Seaborn
+
 **Extras:** Graph Data Science, NetworkX, RLHF, GLM, Benders Decomposition
 
 

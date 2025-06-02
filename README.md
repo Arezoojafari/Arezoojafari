@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hello, I'm Arezoo Jafari 
 
-<!--
-**Arezoojafari/Arezoojafari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist | Ph.D. in Industrial Engineering | AI & Optimization Enthusiast
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:jafari.a@northeastern.edu">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/arezoo-jafari/">💼 LinkedIn</a> •
+  <a href="https://github.com/arezoojafari">💻 GitHub</a> •
+  <a href="[https://scholar.google.com/citations?user=XXXX"](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=JkMBaEwAAAAJ)>📚 Google Scholar</a>
+</p>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Bring to the Table
+
+- **Machine Learning for Impact**  
+  Logistic regression, tree-based models, SVMs, Logistic Regression for applied decision-making
+
+- **Optimization & Operations Research**  
+  Network optimization, stochastic modeling, Benders decomposition, and simulation-based insights
+
+- **LLMs & GenAI Applications**  
+  Built a real-time sentiment classification pipeline using Gemini, RAG, and FAISS for finance
+
+
+---
+
+## Tech Stack
+
+**Languages:** Python, R, SQL  
+**Tools & Platforms:** Neo4j, Gurobi, SageMaker, Numpy, Pandas, Scikit-learn, TensorFlow, FAISS, GPT API, RAG  
+**Visualization:** Plotly, Seaborn
+**Extras:** Graph Data Science, NetworkX, RLHF, GLM, Benders Decomposition

@@ -1,17 +1,23 @@
-## Hello, I'm Arezoo Jafari 
-<p align="center">
-  <a href="mailto:jafari.a@northeastern.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-jafari.a@northeastern.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/arezoo-jafari/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Arezoo_Jafari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=XXXX" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
-  </a>
-</p>
+<div align="center">
 
-Data Scientist | Ph.D. in Industrial Engineering | AI & Optimization Enthusiast
+  ## 👋 Hello, I'm Arezoo Jafari
+
+  **Data Scientist | Ph.D. in Industrial Engineering | AI & Optimization Enthusiast**
+
+  <p>
+    <a href="mailto:jafari.a@northeastern.edu" target="_blank">
+      <img src="https://img.shields.io/badge/Email-jafari.a@northeastern.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/arezoo-jafari/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Arezoo_Jafari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://scholar.google.com/citations?user=XXXX" target="_blank">
+      <img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
+    </a>
+  </p>
+
+</div>
+
 
 
 ---

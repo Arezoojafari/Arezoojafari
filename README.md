@@ -38,3 +38,5 @@ Data Scientist | Ph.D. in Industrial Engineering | AI & Optimization Enthusiast
 **Tools & Platforms:** Neo4j, Gurobi, SageMaker, Numpy, Pandas, Scikit-learn, TensorFlow, FAISS, GPT API, RAG  
 **Visualization:** Plotly, Seaborn
 **Extras:** Graph Data Science, NetworkX, RLHF, GLM, Benders Decomposition
+
+

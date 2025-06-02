@@ -5,8 +5,8 @@ Data Scientist | Ph.D. in Industrial Engineering | AI & Optimization Enthusiast
 <p align="center">
   <a href="mailto:jafari.a@northeastern.edu">📧 Email</a> •
   <a href="https://www.linkedin.com/in/arezoo-jafari/">💼 LinkedIn</a> •
-  <a href="https://github.com/arezoojafari">💻 GitHub</a> •
-  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=JkMBaEwAAAAJ>📚 Google Scholar</a>
+  <a href="https://github.com/arezoo-jafari">💻 GitHub</a> •
+  <a href="https://scholar.google.com/citations?user=XXXX">📚 Google Scholar</a>
 </p>
 ---
 

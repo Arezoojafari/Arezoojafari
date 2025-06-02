@@ -25,10 +25,10 @@
 ## What I Bring to the Table
 
 - **Machine Learning for Impact**  
-  Logistic regression, tree-based models, SVMs, Logistic Regression for applied decision-making
+  Logistic regression, tree-based models, SVMs, and Neural Network for applied decision-making
 
 - **Optimization & Operations Research**  
-  Network optimization, stochastic modeling, Benders decomposition, and simulation-based insights
+  Network optimization, stochastic programming, Benders decomposition, and business insights
 
 - **LLMs & GenAI Applications**  
   Built a real-time sentiment classification pipeline using Gemini, RAG, and FAISS for finance

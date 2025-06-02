@@ -1,13 +1,23 @@
 ## Hello, I'm Arezoo Jafari 
+<p align="center">
+  <a href="mailto:jafari.a@northeastern.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-jafari.a@northeastern.edu-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/arezoo-jafari/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Arezoo%20Jafari-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/arezoo-jafari" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-arezoo--jafari-black?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=XXXX" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-View%20Profile-blue?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
+</p>
+
 
 Data Scientist | Ph.D. in Industrial Engineering | AI & Optimization Enthusiast
 
-<p align="center">
-  <a href="mailto:jafari.a@northeastern.edu">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/arezoo-jafari/">💼 LinkedIn</a> •
-  <a href="https://github.com/arezoo-jafari">💻 GitHub</a> •
-  <a href="https://scholar.google.com/citations?user=XXXX">📚 Google Scholar</a>
-</p>
+
 ---
 
 ## What I Bring to the Table

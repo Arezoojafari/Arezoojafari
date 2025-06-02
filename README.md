@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
 </p>
----
 
 Data Scientist | Ph.D. in Industrial Engineering | AI & Optimization Enthusiast
 

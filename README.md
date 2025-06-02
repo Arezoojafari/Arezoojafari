@@ -11,7 +11,7 @@
   </a>
 </p>
 
-
+---
 
 Data Scientist | Ph.D. in Industrial Engineering | AI & Optimization Enthusiast
 
